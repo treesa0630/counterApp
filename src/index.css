@@ -1,0 +1,12 @@
+*{
+  background-color: black;
+  margin: 0;
+  padding: 0px;
+}
+.heading{
+  font-family: "Cinzel", serif;
+  font-weight: 600;
+}
+.number{
+  font-size: 75px;
+}
